@@ -1,0 +1,53 @@
+<workflowJob _class="org.jenkinsci.plugins.workflow.job.WorkflowJob">
+<action/>
+<action/>
+<action/>
+<action/>
+<action/>
+<action/>
+<action/>
+<action/>
+<action _class="com.cloudbees.plugins.credentials.ViewCredentialsAction"/>
+<description/>
+<displayName>chat-app4</displayName>
+<fullDisplayName>chat-app4</fullDisplayName>
+<fullName>chat-app4</fullName>
+<name>chat-app4</name>
+<url>http://178.128.44.20:5000/job/chat-app4/</url>
+<buildable>true</buildable>
+<build _class="org.jenkinsci.plugins.workflow.job.WorkflowRun">
+<number>1</number>
+<url>http://178.128.44.20:5000/job/chat-app4/1/</url>
+</build>
+<color>blue</color>
+<firstBuild _class="org.jenkinsci.plugins.workflow.job.WorkflowRun">
+<number>1</number>
+<url>http://178.128.44.20:5000/job/chat-app4/1/</url>
+</firstBuild>
+<healthReport>
+<description>Build stability: No recent builds failed.</description>
+<iconClassName>icon-health-80plus</iconClassName>
+<iconUrl>health-80plus.png</iconUrl>
+<score>100</score>
+</healthReport>
+<inQueue>false</inQueue>
+<keepDependencies>false</keepDependencies>
+<lastBuild _class="org.jenkinsci.plugins.workflow.job.WorkflowRun">
+<number>1</number>
+<url>http://178.128.44.20:5000/job/chat-app4/1/</url>
+</lastBuild>
+<lastCompletedBuild _class="org.jenkinsci.plugins.workflow.job.WorkflowRun">
+<number>1</number>
+<url>http://178.128.44.20:5000/job/chat-app4/1/</url>
+</lastCompletedBuild>
+<lastStableBuild _class="org.jenkinsci.plugins.workflow.job.WorkflowRun">
+<number>1</number>
+<url>http://178.128.44.20:5000/job/chat-app4/1/</url>
+</lastStableBuild>
+<lastSuccessfulBuild _class="org.jenkinsci.plugins.workflow.job.WorkflowRun">
+<number>1</number>
+<url>http://178.128.44.20:5000/job/chat-app4/1/</url>
+</lastSuccessfulBuild>
+<nextBuildNumber>2</nextBuildNumber>
+<concurrentBuild>true</concurrentBuild>
+</workflowJob>
